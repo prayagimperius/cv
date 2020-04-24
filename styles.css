@@ -1,0 +1,23 @@
+
+  body {
+    background-color: powderblue;
+  }
+  hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+  }
+  h1{
+    color: #916dd5;
+    font-family: "Georgia", serif;
+  }
+h3{
+  color: #916dd5;
+}
+img{
+  border-radius: 100%;
+}
